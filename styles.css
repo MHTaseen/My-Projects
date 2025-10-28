@@ -439,5 +439,6 @@ body {
     border: 0;
 }
 section {
-    scroll-margin-top: 90px; /* Adjust this to your navbar height (~90px fits your design) */
+    scroll-margin-top: 90px; 
 }
+
